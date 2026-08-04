@@ -1,21 +1,14 @@
-<!--
-╔══════════════════════════════════════════════════════════════╗
-║ Mohammed Shahed Afrid Khan• AI ENGINEER                      ║
-║             AI / ML × ENGINEERING × RESEARCH                 ║
-╚══════════════════════════════════════════════════════════════╝
--->
-
 <div align="center">
 
-# ⚡ Mohammed Shahed Afrid Khan
+# ⚡ MOHAMMED SHAHED AFRID KHAN
 
 ### `AI/ML Engineer` • `Full-Stack AI Builder` • `Quantum ML Researcher`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=AFRID&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20%E2%80%A2%20ENGINEERING%20%E2%80%A2%20RESEARCH&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:302B63,100:8A7CFF&height=230&section=header&text=AFRID&fontSize=78&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20%E2%80%A2%20ENGINEERING%20%E2%80%A2%20RESEARCH&descAlignY=62&descSize=18" width="100%"/>
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=22\&duration=3000\&pause=1000\&color=8A7CFF\&center=true\&vCenter=true\&width=800\&lines=Building+Intelligent+Systems+%E2%9A%A1;Engineering+AI+Beyond+the+Notebook+%F0%9F%A4%96;Exploring+Quantum+Machine+Learning+%E2%9A%9B%EF%B8%8F;Research.+Engineer.+Build.+Repeat.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=21\&duration=2800\&pause=900\&color=8A7CFF\&center=true\&vCenter=true\&width=850\&lines=Building+Intelligent+Systems+%E2%9A%A1;Engineering+AI+Beyond+the+Notebook+%F0%9F%A4%96;Exploring+Quantum+Machine+Learning+%E2%9A%9B%EF%B8%8F;Research.+Engineer.+Build.+Repeat.)](https://git.io/typing-svg)
 
 <br>
 
@@ -23,7 +16,7 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Afrid-40\&label=PROFILE+VIEWS\&color=6c63ff\&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Afrid-40\&label=PROFILE+VIEWS\&color=8A7CFF\&style=for-the-badge)
 
 </div>
 
@@ -33,67 +26,81 @@
 
 <div align="center">
 
-### 「 The Engineer Behind the Experiments 」
+### 「 THE ENGINEER BEHIND THE EXPERIMENTS 」
 
 </div>
 
-I'm an **Artificial Intelligence & Machine Learning engineer in progress**, obsessed with turning ideas into systems that actually work.
+I'm an **AI/ML engineer and builder** focused on turning research ideas into practical intelligent systems.
 
-My interests live at the intersection of:
+My work sits at the intersection of:
+
+**Artificial Intelligence · Machine Learning · Software Engineering · Quantum Computing**
+
+I enjoy taking ideas through the complete engineering cycle:
 
 ```text
-        ┌──────────────────────────────────────┐
-        │                                      │
-        │        🧠 ARTIFICIAL INTELLIGENCE    │
-        │                 │                    │
-        │        ┌────────┴────────┐           │
-        │        ↓                 ↓           │
-        │    🤖 MACHINE        ⚙️ SOFTWARE    │
-        │      LEARNING         ENGINEERING    │
-        │        │                 │           │
-        │        └────────┬────────┘           │
-        │                 ↓                    │
-        │          ⚛️ QUANTUM ML               │
-        │                 │                    │
-        │                 ↓                    │
-        │        🚀 INTELLIGENT SYSTEMS       │
-        │                                      │
-        └──────────────────────────────────────┘
+IDEA
+  ↓
+RESEARCH
+  ↓
+ARCHITECTURE
+  ↓
+IMPLEMENTATION
+  ↓
+EVALUATION
+  ↓
+SYSTEM
+  ↓
+PRODUCT
 ```
 
-I enjoy moving through the complete engineering cycle:
+### Current interests
 
-**Idea → Research → Architecture → Implementation → Evaluation → Product**
+* 🤖 Artificial Intelligence & Machine Learning
+* 🧠 NLP & Intelligent Systems
+* ⚙️ AI Agents & LLM Applications
+* 🌐 Full-Stack AI Engineering
+* ⚛️ Quantum Machine Learning
+* 🔬 Applied AI Research
+* 🚀 Real-world AI Products
 
 ---
 
-# ⚔️ `02` — MY TECHNICAL ARSENAL
+# ⚔️ `02` — TECHNICAL ARSENAL
 
 <div align="center">
 
+### `BUILD • TRAIN • DEPLOY • RESEARCH`
+
+</div>
+
 ### 💻 Programming
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,sql" />
+`Python` `JavaScript` `TypeScript` `SQL`
 
 ### 🤖 AI / Machine Learning
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" />
+`Scikit-learn` `Pandas` `NumPy` `NLP` `TF-IDF` `Machine Learning` `Deep Learning`
 
-`Machine Learning` `NLP` `TF-IDF` `Deep Learning` `AI Agents` `LLM Applications`
+### 🧠 AI Systems
+
+`AI Agents` `LLM Applications` `OpenAI` `FastAPI` `Flask` `REST APIs`
 
 ### 🌐 Full-Stack Engineering
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,flask" />
+`React` `Node.js` `Express` `MongoDB` `Firebase`
 
-### 🛠️ Engineering & Infrastructure
+### 🛠️ Systems & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,sqlite,vite" />
+`Git` `GitHub` `Docker` `SQLite` `IndexedDB` `PWA`
 
-`REST APIs` `PWA` `IndexedDB` `Offline-First Systems`
+### ⚛️ Quantum Computing
 
-### ⚛️ Quantum
+`Qiskit` `Quantum Machine Learning` `Hybrid Quantum-Classical ML`
 
-`Qiskit` `Quantum Computing` `Quantum Machine Learning`
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,mongodb,firebase,docker,git,github,vite" />
 
 </div>
 
@@ -103,170 +110,203 @@ I enjoy moving through the complete engineering cycle:
 
 <div align="center">
 
+### 「 SYSTEMS I'VE BUILT 」
+
+</div>
+
+---
+
 ## 🧠 APEX-X
 
 ### `Adaptive Personal Executive — Next Generation AI Executive Assistant`
 
-</div>
+An AI-powered executive system designed around **multi-agent intelligence, memory, planning, project management, task automation, and decision support**.
 
-> An AI executive system built around **multi-agent intelligence, memory, planning, project management and decision support**.
-
-**Core architecture**
+### Architecture
 
 ```text
-                    ┌──────────────┐
-                    │    USER      │
-                    └──────┬───────┘
-                           ↓
-                  ┌─────────────────┐
-                  │   AI ORCHESTRATOR│
-                  └────────┬────────┘
-                           ↓
-       ┌───────────────────┼───────────────────┐
-       ↓                   ↓                   ↓
-  🧠 Executive       🔬 Researcher       📋 Planner
-       │                   │                   │
-       └───────────────────┼───────────────────┘
-                           ↓
-                     🗄️ MEMORY
-                           ↓
-                    ⚡ AI RESPONSE
+                         USER
+                          │
+                          ▼
+                  ┌───────────────┐
+                  │ AI ORCHESTRATOR│
+                  └───────┬───────┘
+                          │
+          ┌───────────────┼───────────────┐
+          ▼               ▼               ▼
+      🧠 Executive    🔬 Research      📋 Planning
+          │               │               │
+          └───────────────┼───────────────┘
+                          ▼
+                    🗄️ MEMORY
+                          │
+                          ▼
+                    ⚡ RESPONSE
 ```
 
-**Built with**
+### Highlights
 
-`Python` `Flask` `OpenAI` `SQLite` `JavaScript`
+* Multi-agent architecture
+* Executive, Research, Planning and Project Management agents
+* AI-powered task management
+* Memory and persistence concepts
+* OpenAI integration
+* Flask backend
+* SQLite persistence
 
-**Focus**
+**Tech:** `Python` `Flask` `OpenAI` `SQLite` `JavaScript`
 
-`Multi-Agent Systems` `AI Assistants` `LLM Applications` `Memory` `Automation`
+<div align="left">
+
+🔗 **[VIEW PROJECT →](https://github.com/Afrid-40/APEX-X)**
+
+</div>
 
 ---
-
-<div align="center">
 
 ## 🚨 RESILIENT WEB
 
 ### `Offline-First Disaster Response Platform`
 
-</div>
+A resilient emergency-response platform designed for environments where **conventional connectivity may be unreliable**.
 
-Designed for situations where **connectivity cannot be trusted**.
+### Core capabilities
+
+| Capability         | Purpose                                      |
+| ------------------ | -------------------------------------------- |
+| 📵 Offline-first   | Continue operating without reliable internet |
+| 📍 GPS             | Capture location information                 |
+| 💾 IndexedDB       | Persist critical local data                  |
+| 📱 SMS fallback    | Alternative communication path               |
+| 🔵 Bluetooth       | Local data sharing                           |
+| 🔄 Synchronization | Recover and synchronize data                 |
+
+### Architecture
 
 ```text
-             🌐 ONLINE
-                │
-                ↓
-        ┌───────────────┐
-        │   WEB APP     │
-        └───────┬───────┘
-                │
-       ┌────────┴────────┐
-       ↓                 ↓
-   📡 CONNECTED      📵 OFFLINE
-       │                 │
-       │          ┌──────┴──────┐
-       │          ↓             ↓
-       │      IndexedDB     Local Cache
-       │          │             │
-       └──────────┴──────┬──────┘
-                         ↓
-                   🔄 SYNC ENGINE
-                         ↓
-                  🚨 RESPONSE DATA
+                 🌐 CONNECTED
+                      │
+                      ▼
+                 WEB APPLICATION
+                      │
+             ┌────────┴────────┐
+             ▼                 ▼
+         ONLINE             OFFLINE
+             │                 │
+             │          ┌──────┴──────┐
+             │          ▼             ▼
+             │      IndexedDB     Local Cache
+             │          │             │
+             └──────────┴──────┬──────┘
+                                ▼
+                          SYNC ENGINE
+                                │
+                                ▼
+                       🚨 RESPONSE DATA
 ```
 
-**Capabilities**
+**Tech:** `TypeScript` `IndexedDB` `PWA` `Docker`
 
-* Offline-first architecture
-* Incident reporting
-* GPS/location capture
-* Local persistence
-* SMS fallback
-* Bluetooth-based sharing
-* Synchronization workflows
+<div align="left">
 
-**Built with**
+🔗 **[VIEW PROJECT →](https://github.com/Afrid-40/Resilient_web)**
 
-`TypeScript` `IndexedDB` `PWA` `Docker`
+</div>
 
 ---
-
-<div align="center">
 
 ## ⚛️ HYBRID CLASSICAL × DEEP × QUANTUM
 
 ### `Sentiment Analysis Research`
 
-</div>
+Research exploring hybrid approaches that combine **classical machine learning, deep learning, quantum machine learning, and ensemble methods** for sentiment analysis.
 
-Exploring hybrid architectures that combine:
+### Research pipeline
 
 ```text
 CLASSICAL ML
-      ↓
+     ↓
 DEEP LEARNING
-      ↓
+     ↓
 QUANTUM CIRCUITS
-      ↓
+     ↓
 HYBRID ARCHITECTURE
-      ↓
+     ↓
 ENSEMBLE LEARNING
-      ↓
+     ↓
 SENTIMENT ANALYSIS
 ```
 
-**Research stack**
+### Focus
 
-`Python` `Qiskit` `Machine Learning` `Deep Learning` `NLP`
+* Classical ML pipelines
+* Deep learning
+* Quantum circuits
+* Hybrid quantum-classical architectures
+* Ensemble learning
+* NLP and sentiment analysis
 
-**Research direction**
+**Tech:** `Python` `Qiskit` `Machine Learning` `Deep Learning` `NLP`
 
-> Exploring practical hybrid quantum-classical approaches for near-term quantum computing environments.
+<div align="left">
+
+🔗 **[VIEW RESEARCH →](https://github.com/Afrid-40/Hybrid-Classical-Deep-Quantum-Sentiment-Analysis-Framework-Using-Ensemble-Learning)**
+
+</div>
 
 ---
-
-<div align="center">
 
 ## 🎯 TUBEFILTER AI
 
-### `YouTube Comment Sentiment Analyzer`
+### `AI-Powered YouTube Comment Sentiment Analyzer`
+
+An NLP application for analyzing YouTube comments and classifying sentiment.
+
+### Pipeline
+
+```text
+COMMENTS
+   ↓
+TEXT PREPROCESSING
+   ↓
+FEATURE EXTRACTION
+   ↓
+ML MODEL
+   ↓
+SENTIMENT
+```
+
+**Tech:** `Python` `NLP` `Machine Learning` `Flask`
+
+<div align="left">
+
+🔗 **[VIEW PROJECT →](https://github.com/Afrid-40/TubeFilterAI)**
 
 </div>
-
-A machine-learning application for analyzing and classifying YouTube comments.
-
-**Pipeline**
-
-`Raw Comments → Preprocessing → Feature Extraction → ML Model → Sentiment`
-
-**Built with**
-
-`Python` `NLP` `Machine Learning` `Flask`
 
 ---
 
-<div align="center">
-
 ## 🎬 MOVIE GENRE CLASSIFICATION
 
-### `NLP-Based Genre Prediction`
+### `NLP-Based Movie Genre Prediction`
 
-</div>
+A machine learning system that predicts movie genres from textual movie descriptions.
 
-A text-classification system that predicts movie genres from plot descriptions.
+### Techniques
 
-**Techniques**
-
-* TF-IDF
+* TF-IDF feature extraction
 * Naive Bayes
 * Logistic Regression
 * Support Vector Machines
 * Text classification
 
-**Built with**
+**Tech:** `Python` `Pandas` `Scikit-learn` `TF-IDF` `NLP`
 
-`Python` `Pandas` `Scikit-learn` `NLP`
+<div align="left">
+
+🔗 **[VIEW PROJECT →](https://github.com/Afrid-40/MOVIE-GENRE-CLASSIFICATION)**
+
+</div>
 
 ---
 
@@ -274,38 +314,38 @@ A text-classification system that predicts movie genres from plot descriptions.
 
 <div align="center">
 
-### ⚛️ QUANTUM MACHINE LEARNING
+## ⚛️ QUANTUM MACHINE LEARNING
 
-**Classical Intelligence × Quantum Computing**
+### `CLASSICAL INTELLIGENCE × QUANTUM COMPUTING`
 
 </div>
 
-My research interests focus on exploring whether quantum computing can meaningfully complement classical machine learning.
+I'm exploring how **quantum computing can complement classical machine learning**, particularly in sentiment analysis and hybrid learning architectures.
 
-### Current exploration
+### Research direction
 
 ```text
-                    AI RESEARCH
-                        │
-             ┌──────────┴──────────┐
-             ↓                     ↓
-       Classical ML          Deep Learning
-             │                     │
-             └──────────┬──────────┘
-                        ↓
-                Quantum Computing
-                        │
-                        ↓
-                Quantum ML Models
-                        │
-                        ↓
-             Hybrid Architectures
-                        │
-                        ↓
-              NISQ-Focused Systems
+                 AI RESEARCH
+                     │
+          ┌──────────┴──────────┐
+          ▼                     ▼
+    CLASSICAL ML          DEEP LEARNING
+          │                     │
+          └──────────┬──────────┘
+                     ▼
+             QUANTUM COMPUTING
+                     │
+                     ▼
+            QUANTUM ML MODELS
+                     │
+                     ▼
+          HYBRID ARCHITECTURES
+                     │
+                     ▼
+             PRACTICAL SYSTEMS
 ```
 
-### Areas of interest
+### Areas of exploration
 
 `Quantum ML`
 
@@ -320,6 +360,8 @@ My research interests focus on exploring whether quantum computing can meaningfu
 `Ensemble Learning`
 
 `NISQ Computing`
+
+> **The goal is not to use quantum computing because it is fashionable — but to investigate where it can meaningfully contribute to intelligent systems.**
 
 ---
 
@@ -350,54 +392,46 @@ My research interests focus on exploring whether quantum computing can meaningfu
 
 <div align="center">
 
-### 「 Build like an engineer. Think like a researcher. 」
+### 「 BUILD LIKE AN ENGINEER. THINK LIKE A RESEARCHER. 」
 
 ```text
-       ┌───────────────────────────────┐
-       │                               │
-       │     CLARITY > COMPLEXITY      │
-       │                               │
-       │     SYSTEMS > DEMOS           │
-       │                               │
-       │     EVIDENCE > CLAIMS         │
-       │                               │
-       │     CONSISTENCY > HYPE        │
-       │                               │
-       └───────────────────────────────┘
+CLARITY        > COMPLEXITY
+SYSTEMS        > DEMOS
+EVIDENCE       > CLAIMS
+CONSISTENCY    > HYPE
 ```
 
 </div>
 
 I don't want to simply train models.
 
-I want to understand the problem, design the architecture, build the system, evaluate it honestly, and make it useful.
+I want to:
+
+**Understand the problem → Design the architecture → Build the system → Evaluate it honestly → Make it useful.**
 
 ---
 
 # 🌌 `07` — THE JOURNEY
 
+<div align="center">
+
 ```text
-                    ┌───────────┐
-                    │  RESEARCH │
-                    └─────┬─────┘
-                          ↓
-                 ┌────────────────┐
-                 │ MACHINE LEARNING│
-                 └───────┬────────┘
-                         ↓
-                ┌──────────────────┐
-                │   ENGINEERING    │
-                └────────┬─────────┘
-                         ↓
-                  ┌──────────────┐
-                  │  AI SYSTEMS  │
-                  └──────┬───────┘
-                         ↓
-                  ┌──────────────┐
-                  │   PRODUCT    │
-                  └──────┬───────┘
-                         ↓
-                  🚀 DEPLOYMENT
+             🔬 RESEARCH
+                  │
+                  ▼
+          🧠 MACHINE LEARNING
+                  │
+                  ▼
+         ⚙️ SOFTWARE ENGINEERING
+                  │
+                  ▼
+             🤖 AI SYSTEMS
+                  │
+                  ▼
+              🚀 PRODUCT
+                  │
+                  ▼
+             🌍 IMPACT
 ```
 
 ### Mission
@@ -413,14 +447,6 @@ I want to understand the problem, design the architecture, build the system, eva
 <img src="https://github-readme-stats.vercel.app/api?username=Afrid-40&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A7CFF&icon_color=8A7CFF&text_color=C9D1D9" height="170"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afrid-40&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A7CFF&text_color=C9D1D9" height="170"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Afrid-40&theme=tokyonight&hide_border=true&background=0D1117&ring=8A7CFF&fire=8A7CFF&currStreakLabel=8A7CFF" />
 
 </div>
 
@@ -464,20 +490,32 @@ I want to understand the problem, design the architecture, build the system, eva
 <img src="https://img.shields.io/badge/GitHub-Afrid--40-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/shahed-afrid-khan-mohammed-2a9b55322/">
+<!-- Replace this URL with your actual LinkedIn profile -->
+
+<a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <br><br>
 
-**AI/ML • Software Engineering • Research**
+**Mohammed Shahed Afrid Khan**
+
+`AI/ML` • `Software Engineering` • `Research`
 
 <br>
 
 > *「 The experiment is never finished. 」*
 
-<br>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A7CFF,50:302B63,100:0D1117&height=140&section=footer" width="100%"/>
+
+### ⚡ AFRID // AI RESEARCH PROTOCOL
+
+`SYSTEM STATUS: BUILDING`
 
 </div>
