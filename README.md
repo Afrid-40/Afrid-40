@@ -1,13 +1,13 @@
 <!--
 ╔══════════════════════════════════════════════════════════════╗
-║                    AFRID • AI ENGINEER                      ║
-║             AI / ML × ENGINEERING × RESEARCH               ║
+║ Mohammed Shahed Afrid Khan• AI ENGINEER                      ║
+║             AI / ML × ENGINEERING × RESEARCH                 ║
 ╚══════════════════════════════════════════════════════════════╝
 -->
 
 <div align="center">
 
-# ⚡ AFRID
+# ⚡ Mohammed Shahed Afrid Khan
 
 ### `AI/ML Engineer` • `Full-Stack AI Builder` • `Quantum ML Researcher`
 
@@ -48,15 +48,15 @@ My interests live at the intersection of:
         │                 │                    │
         │        ┌────────┴────────┐           │
         │        ↓                 ↓           │
-        │    🤖 MACHINE        ⚙️ SOFTWARE     │
+        │    🤖 MACHINE        ⚙️ SOFTWARE    │
         │      LEARNING         ENGINEERING    │
-        │        │                 │            │
-        │        └────────┬────────┘            │
-        │                 ↓                     │
+        │        │                 │           │
+        │        └────────┬────────┘           │
+        │                 ↓                    │
         │          ⚛️ QUANTUM ML               │
-        │                 │                     │
-        │                 ↓                     │
-        │        🚀 INTELLIGENT SYSTEMS        │
+        │                 │                    │
+        │                 ↓                    │
+        │        🚀 INTELLIGENT SYSTEMS       │
         │                                      │
         └──────────────────────────────────────┘
 ```
@@ -464,7 +464,7 @@ I want to understand the problem, design the architecture, build the system, eva
 <img src="https://img.shields.io/badge/GitHub-Afrid--40-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/shahed-afrid-khan-mohammed-2a9b55322/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
