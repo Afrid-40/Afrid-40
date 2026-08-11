@@ -57,15 +57,15 @@ I like taking a problem through the complete engineering cycle:
 ```mermaid
 flowchart TD
 
-    CORE["AFRID-40<br/>AI CORE"]
+    CORE["AFRID-40<br>AI CORE"]
 
-    AI["AI / ML<br/>ML · Deep Learning · NLP<br/>GenAI · Agents"]
+    AI["AI / ML<br>ML · Deep Learning · NLP<br>GenAI · Agents"]
 
-    QUANTUM["QUANTUM<br/>Qiskit · QML · NISQ<br/>Research"]
+    QUANTUM["QUANTUM<br>Qiskit · QML · NISQ<br>Research"]
 
-    STACK["FULL STACK<br/>React · Node · FastAPI<br/>Flask · MongoDB"]
+    STACK["FULL STACK<br>React · Node · FastAPI<br>Flask · MongoDB"]
 
-    SYSTEMS["INTELLIGENT APPS<br/>REAL-WORLD SYSTEMS"]
+    SYSTEMS["INTELLIGENT APPS<br>REAL-WORLD SYSTEMS"]
 
     CORE --> AI
     CORE --> QUANTUM
@@ -348,17 +348,17 @@ PROBLEM SOLVING
 ║                     MISSION 2026                         ║
 ╠══════════════════════════════════════════════════════════╣
 ║                                                          ║
-║  [✓] Build real-world AI systems                        ║
-║  [✓] Explore Quantum Computing                          ║
-║  [✓] Build full-stack applications                      ║
-║  [>] Master Data Structures & Algorithms                 ║
-║  [>] Advance Generative AI                               ║
-║  [>] Build production-grade agent systems                ║
-║  [>] Contribute to Open Source                           ║
-║  [>] Strengthen engineering portfolio                    ║
-║  [>] Prepare for software engineering opportunities      ║
+║  [✓] Build real-world AI systems                         ║
+║  [✓] Explore Quantum Computing                           ║
+║  [✓] Build full-stack applications                       ║
+║  [>] Master Data Structures & Algorithms                  ║
+║  [>] Advance Generative AI                                ║
+║  [>] Build production-grade agent systems                 ║
+║  [>] Contribute to Open Source                            ║
+║  [>] Strengthen engineering portfolio                     ║
+║  [>] Prepare for software engineering opportunities       ║
 ║                                                          ║
-║                 MISSION STATUS :: ACTIVE                 ║
+║                 MISSION STATUS :: ACTIVE                  ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
@@ -444,7 +444,8 @@ PROBLEM SOLVING
 
 <br><br>
 
-<a href="https://www.linkedin.com/">
+<!-- Replace YOUR-LINKEDIN-USERNAME with your actual LinkedIn username -->
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
 <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-990000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
