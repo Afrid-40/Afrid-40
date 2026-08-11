@@ -59,11 +59,11 @@ flowchart TD
 
     CORE["AFRID-40<br/>AI CORE"]
 
-    AI["AI / ML<br/><br/>ML<br/>Deep Learning<br/>NLP<br/>GenAI<br/>Agents"]
+    AI["AI / ML<br/>ML • Deep Learning • NLP • GenAI • Agents"]
 
-    QUANTUM["QUANTUM<br/><br/>Qiskit<br/>QML<br/>NISQ<br/>Research"]
+    QUANTUM["QUANTUM<br/>Qiskit • QML • NISQ • Research"]
 
-    STACK["FULL STACK<br/><br/>React<br/>Node<br/>FastAPI<br/>Flask<br/>MongoDB"]
+    STACK["FULL STACK<br/>React • Node • FastAPI • Flask • MongoDB"]
 
     SYSTEMS["INTELLIGENT APPS<br/>AND REAL-WORLD SYSTEMS"]
 
@@ -74,15 +74,9 @@ flowchart TD
     AI --> SYSTEMS
     QUANTUM --> SYSTEMS
     STACK --> SYSTEMS
-
-    classDef core fill:#050505,stroke:#ff3030,color:#ffffff,stroke-width:3px;
-    classDef domain fill:#0b0b0b,stroke:#990000,color:#ffffff,stroke-width:2px;
-    classDef output fill:#120000,stroke:#ff0000,color:#ffffff,stroke-width:3px;
-
-    class CORE core;
-    class AI,QUANTUM,STACK domain;
-    class SYSTEMS output;
 ```
+
+---
 
 ### Core Domains
 
