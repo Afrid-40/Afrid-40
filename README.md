@@ -77,7 +77,7 @@ I enjoy taking a problem from **concept → architecture → implementation → 
                          │     AI CORE         │
                          │                     │
                          └──────────┬──────────┘
-                                    │
+                                   │
               ┌─────────────────────┼─────────────────────┐
               │                     │                     │
               ▼                     ▼                     ▼
