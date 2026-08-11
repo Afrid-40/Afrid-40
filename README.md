@@ -59,13 +59,13 @@ flowchart TD
 
     CORE["AFRID-40<br/>AI CORE"]
 
-    AI["AI / ML<br/>ML • Deep Learning • NLP • GenAI • Agents"]
+    AI["AI / ML<br/>ML · Deep Learning · NLP<br/>GenAI · Agents"]
 
-    QUANTUM["QUANTUM<br/>Qiskit • QML • NISQ • Research"]
+    QUANTUM["QUANTUM<br/>Qiskit · QML · NISQ<br/>Research"]
 
-    STACK["FULL STACK<br/>React • Node • FastAPI • Flask • MongoDB"]
+    STACK["FULL STACK<br/>React · Node · FastAPI<br/>Flask · MongoDB"]
 
-    SYSTEMS["INTELLIGENT APPS<br/>AND REAL-WORLD SYSTEMS"]
+    SYSTEMS["INTELLIGENT APPS<br/>REAL-WORLD SYSTEMS"]
 
     CORE --> AI
     CORE --> QUANTUM
@@ -76,7 +76,6 @@ flowchart TD
     STACK --> SYSTEMS
 ```
 
----
 
 ### Core Domains
 
