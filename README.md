@@ -446,7 +446,7 @@ PROBLEM SOLVING
 
 <!-- Replace YOUR-LINKEDIN-USERNAME with your actual LinkedIn username -->
 <a href="https://www.linkedin.com/in/shahed-afrid-khan-mohammed-2a9b55322/">
-<img src="https://img.shields.io/badge/MOHAMMED-990000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-SHAHED%20AFRID-990000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br><br>
