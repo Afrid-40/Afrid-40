@@ -10,8 +10,11 @@
 
 </div>
 
-> WHO_AM_I
+---
 
+# `> WHO_AM_I`
+
+```python
 class Afrid:
 
     identity = "AI/ML Engineer"
@@ -37,17 +40,21 @@ class Afrid:
     mindset = "BUILD > EXPERIMENT > DEPLOY > ITERATE"
 
     status = "BUILDING INTELLIGENT SYSTEMS"
+```
 
-I build intelligent systems that turn ideas into working software.
+> **I build intelligent systems that turn ideas into working software.**
 
-My work sits at the intersection of AI/ML, Generative AI, intelligent agents, quantum computing, full-stack engineering, and real-world problem solving.
+My work sits at the intersection of **AI/ML, Generative AI, intelligent agents, quantum computing, full-stack engineering, and real-world problem solving**.
 
 I like taking a problem through the complete engineering cycle:
 
-CONCEPT → ARCHITECTURE → IMPLEMENTATION → TESTING → DEPLOYMENT → ITERATION
+`CONCEPT → ARCHITECTURE → IMPLEMENTATION → TESTING → DEPLOYMENT → ITERATION`
 
-> SYSTEM_ARCHITECTURE
+---
 
+# `> SYSTEM_ARCHITECTURE`
+
+```mermaid
 flowchart TD
 
     CORE["AFRID-40<br/>AI CORE"]
@@ -75,37 +82,28 @@ flowchart TD
     class CORE core;
     class AI,QUANTUM,STACK domain;
     class SYSTEMS output;
+```
 
-Core Domains
+### Core Domains
 
-Domain
+| Domain | Focus |
+|---|---|
+| 🧠 **AI / ML** | Machine Learning • Deep Learning • NLP • GenAI • Agents |
+| ⚛️ **Quantum** | Qiskit • QML • NISQ • Hybrid Quantum-Classical Research |
+| ⚙️ **Full Stack** | React • Node • FastAPI • Flask • MongoDB |
+| 🚀 **Systems** | Intelligent Applications • Automation • Real-World Solutions |
 
-Focus
+---
 
-🧠 AI / ML
+# `> PROJECT_DATABASE`
 
-Machine Learning • Deep Learning • NLP • GenAI • Agents
+## `01 // APEX-X`
 
-⚛️ Quantum
-
-Qiskit • QML • NISQ • Hybrid Quantum-Classical Research
-
-⚙️ Full Stack
-
-React • Node • FastAPI • Flask • MongoDB
-
-🚀 Systems
-
-Intelligent Applications • Automation • Real-World Solutions
-
-> PROJECT_DATABASE
-
-01 // APEX-X
-
-🧠 Multi-Agent AI Executive Assistant
+### 🧠 Multi-Agent AI Executive Assistant
 
 An experimental multi-agent AI system designed to coordinate specialized AI capabilities through an executive orchestration layer.
 
+```text
                          ┌─────────────────────┐
                          │      APEX-X         │
                          │    AI EXECUTIVE     │
@@ -118,17 +116,21 @@ An experimental multi-agent AI system designed to coordinate specialized AI capa
           └─────────────┴───────────┼───────────┴─────────────┘
                                     ▼
                               MEMORY SYSTEM
+```
 
-Focus: AI Agents LLM Systems Automation Memory Intelligent Assistants
+**Focus:** `AI Agents` `LLM Systems` `Automation` `Memory` `Intelligent Assistants`
 
-STATUS :: ACTIVE DEVELOPMENT
+**STATUS ::** `ACTIVE DEVELOPMENT`
 
-02 // QUANTUM SENTIMENT
+---
 
-⚛️ Hybrid Quantum-Classical Sentiment Analysis
+## `02 // QUANTUM SENTIMENT`
 
-A research project exploring a NISQ-feasible hybrid quantum-classical framework for sentiment analysis.
+### ⚛️ Hybrid Quantum-Classical Sentiment Analysis
 
+A research project exploring a **NISQ-feasible hybrid quantum-classical framework for sentiment analysis**.
+
+```text
 DATASET
    │
    ▼
@@ -150,17 +152,21 @@ FEATURE ENGINEERING
            │
            ▼
     SENTIMENT OUTPUT
+```
 
-Focus: Qiskit Quantum ML NISQ Hybrid AI Research
+**Focus:** `Qiskit` `Quantum ML` `NISQ` `Hybrid AI` `Research`
 
-STATUS :: RESEARCH
+**STATUS ::** `RESEARCH`
 
-03 // RESILIENT WEB
+---
 
-🛡️ Disaster Response — Offline-First PWA
+## `03 // RESILIENT WEB`
+
+### 🛡️ Disaster Response — Offline-First PWA
 
 A disaster-response application designed for environments where connectivity may be unreliable.
 
+```text
                   USER DEVICE
                        │
                        ▼
@@ -174,17 +180,21 @@ A disaster-response application designed for environments where connectivity may
           │
           ▼
       LOCAL DATA
+```
 
-Focus: React PWA IndexedDB Leaflet Offline Systems
+**Focus:** `React` `PWA` `IndexedDB` `Leaflet` `Offline Systems`
 
-STATUS :: HACKATHON SYSTEM
+**STATUS ::** `HACKATHON SYSTEM`
 
-04 // FAKE NEWS DETECTION
+---
 
-📰 Machine Learning Classification System
+## `04 // FAKE NEWS DETECTION`
+
+### 📰 Machine Learning Classification System
 
 A complete NLP classification pipeline for identifying potentially fake news.
 
+```text
 RAW DATA
    │
    ▼
@@ -201,37 +211,45 @@ PREDICTION API
    │
    ▼
 FASTAPI
+```
 
-Focus: Python Scikit-learn TF-IDF Logistic Regression FastAPI
+**Focus:** `Python` `Scikit-learn` `TF-IDF` `Logistic Regression` `FastAPI`
 
-STATUS :: DEPLOYABLE ML PROJECT
+**STATUS ::** `DEPLOYABLE ML PROJECT`
 
-05 // HOLO-LEARN
+---
 
-🎓 AI Virtual Classroom
+## `05 // HOLO-LEARN`
+
+### 🎓 AI Virtual Classroom
 
 An experimental learning environment combining AI, interactive education, immersive interfaces, and 3D concepts.
 
-Focus: AI Education 3D PWA Interactive Systems
+**Focus:** `AI` `Education` `3D` `PWA` `Interactive Systems`
 
-STATUS :: MVP
+**STATUS ::** `MVP`
 
-06 // TUBEFILTER-AI
+---
 
-📺 YouTube Spam Detection
+## `06 // TUBEFILTER-AI`
+
+### 📺 YouTube Spam Detection
 
 A machine-learning classifier designed to detect spam comments.
 
-Focus: Python NLP Classification Flask Machine Learning
+**Focus:** `Python` `NLP` `Classification` `Flask` `Machine Learning`
 
-STATUS :: COMPLETED
+**STATUS ::** `COMPLETED`
 
-07 // PYTHON DSA
+---
 
-📚 Data Structures & Algorithms Lab
+## `07 // PYTHON DSA`
+
+### 📚 Data Structures & Algorithms Lab
 
 A continuously evolving repository for algorithmic problem solving and placement preparation.
 
+```text
 ARRAYS
 STRINGS
 LINKED LISTS
@@ -243,45 +261,51 @@ SORTING
 RECURSION
 DYNAMIC PROGRAMMING
 PROBLEM SOLVING
+```
 
-STATUS :: TRAINING
+**STATUS ::** `TRAINING`
 
-> TECH_STACK
+---
+
+# `> TECH_STACK`
 
 <div align="center">
 
-PROGRAMMING
+### PROGRAMMING
 
 <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css" />
 
 <br><br>
 
-AI / MACHINE LEARNING
+### AI / MACHINE LEARNING
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
 
 <br><br>
 
-FULL STACK
+### FULL STACK
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,flask,mongodb,firebase" />
 
 <br><br>
 
-DEVELOPMENT TOOLS
+### DEVELOPMENT TOOLS
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman" />
 
 <br><br>
 
-QUANTUM
+### QUANTUM
 
-QISKIT • QUANTUM MACHINE LEARNING • VARIATIONAL CIRCUITS • NISQ
+`QISKIT` • `QUANTUM MACHINE LEARNING` • `VARIATIONAL CIRCUITS` • `NISQ`
 
 </div>
 
-> CURRENT_OPERATIONS
+---
 
+# `> CURRENT_OPERATIONS`
+
+```text
 ╔══════════════════════════════════════════════════════════╗
 ║                  CURRENT OPERATIONS                      ║
 ╠══════════════════════════════════════════════════════════╣
@@ -295,8 +319,11 @@ QISKIT • QUANTUM MACHINE LEARNING • VARIATIONAL CIRCUITS • NISQ
 ║                                                          ║
 ║  SYSTEM STATUS :: BUILDING                               ║
 ╚══════════════════════════════════════════════════════════╝
+```
 
-> GITHUB_TELEMETRY
+---
+
+# `> GITHUB_TELEMETRY`
 
 <div align="center">
 
@@ -310,7 +337,9 @@ QISKIT • QUANTUM MACHINE LEARNING • VARIATIONAL CIRCUITS • NISQ
 
 </div>
 
-> ACTIVITY_MATRIX
+---
+
+# `> ACTIVITY_MATRIX`
 
 <div align="center">
 
@@ -318,8 +347,11 @@ QISKIT • QUANTUM MACHINE LEARNING • VARIATIONAL CIRCUITS • NISQ
 
 </div>
 
-> MISSION_2026
+---
 
+# `> MISSION_2026`
+
+```text
 ╔══════════════════════════════════════════════════════════╗
 ║                     MISSION 2026                         ║
 ╠══════════════════════════════════════════════════════════╣
@@ -336,11 +368,15 @@ QISKIT • QUANTUM MACHINE LEARNING • VARIATIONAL CIRCUITS • NISQ
 ║                                                          ║
 ║                 MISSION STATUS :: ACTIVE                 ║
 ╚══════════════════════════════════════════════════════════╝
+```
 
-> ENGINEERING_PHILOSOPHY
+---
+
+# `> ENGINEERING_PHILOSOPHY`
 
 <div align="center">
 
+```text
                          THINK
                            │
                            ▼
@@ -359,15 +395,19 @@ QISKIT • QUANTUM MACHINE LEARNING • VARIATIONAL CIRCUITS • NISQ
                        ITERATE
                            │
                            └──────────────► REPEAT
+```
 
-"Don't just learn technology. Build with it."
+### **"Don't just learn technology. Build with it."**
 
 </div>
 
-> TERMINAL
+---
+
+# `> TERMINAL`
 
 <div align="center">
 
+```text
 ┌─────────────────────────────────────────────────────┐
 │ AFRID-40@AI-CORE:~$                                 │
 ├─────────────────────────────────────────────────────┤
@@ -396,10 +436,13 @@ QISKIT • QUANTUM MACHINE LEARNING • VARIATIONAL CIRCUITS • NISQ
 │ > KEEP BUILDING.                                    │
 │                                                     │
 └─────────────────────────────────────────────────────┘
+```
 
 </div>
 
-> CONNECT_WITH_ME
+---
+
+# `> CONNECT_WITH_ME`
 
 <div align="center">
 
@@ -415,6 +458,7 @@ QISKIT • QUANTUM MACHINE LEARNING • VARIATIONAL CIRCUITS • NISQ
 
 <br><br>
 
+```text
 ╔══════════════════════════════════════════════════════╗
 ║                                                      ║
 ║              SYSTEM CONNECTION READY                 ║
@@ -424,13 +468,16 @@ QISKIT • QUANTUM MACHINE LEARNING • VARIATIONAL CIRCUITS • NISQ
 ║            BUILD INTELLIGENCE. SHIP SYSTEMS.         ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
+```
 
 </div>
+
+---
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:8B0000,100:050505&height=140&section=footer&animation=twinkling" width="100%"/>
 
-AFRID-40 // AI CORE // END OF TRANSMISSION
+### `AFRID-40 // AI CORE // END OF TRANSMISSION`
 
 </div>
