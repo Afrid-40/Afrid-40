@@ -10,11 +10,8 @@
 
 </div>
 
----
+> WHO_AM_I
 
-# `> WHO_AM_I`
-
-```python
 class Afrid:
 
     identity = "AI/ML Engineer"
@@ -40,21 +37,17 @@ class Afrid:
     mindset = "BUILD > EXPERIMENT > DEPLOY > ITERATE"
 
     status = "BUILDING INTELLIGENT SYSTEMS"
-```
 
-> **I build intelligent systems that turn ideas into working software.**
+I build intelligent systems that turn ideas into working software.
 
-My work sits at the intersection of **AI/ML, Generative AI, intelligent agents, quantum computing, full-stack engineering, and real-world problem solving**.
+My work sits at the intersection of AI/ML, Generative AI, intelligent agents, quantum computing, full-stack engineering, and real-world problem solving.
 
 I like taking a problem through the complete engineering cycle:
 
-`CONCEPT → ARCHITECTURE → IMPLEMENTATION → TESTING → DEPLOYMENT → ITERATION`
+CONCEPT → ARCHITECTURE → IMPLEMENTATION → TESTING → DEPLOYMENT → ITERATION
 
----
+> SYSTEM_ARCHITECTURE
 
-# `> SYSTEM_ARCHITECTURE`
-
-```mermaid
 flowchart TD
 
     CORE["AFRID-40<br>AI CORE"]
@@ -74,39 +67,85 @@ flowchart TD
     AI --> SYSTEMS
     QUANTUM --> SYSTEMS
     STACK --> SYSTEMS
-```
 
-### Core Domains
+Core Domains
 
-| Domain | Focus |
-|---|---|
-| 🧠 **AI / ML** | Machine Learning • Deep Learning • NLP • GenAI • Agents |
-| ⚛️ **Quantum** | Qiskit • QML • NISQ • Hybrid Quantum-Classical Research |
-| ⚙️ **Full Stack** | React • Node • FastAPI • Flask • MongoDB |
-| 🚀 **Systems** | Intelligent Applications • Automation • Real-World Solutions |
+Domain
 
----
+Focus
 
-# `> PROJECT_DATABASE`
+🧠 AI / ML
 
-| Project | Domain | Status |
-|---|---|---|
-| [APEX-X](https://github.com/Afrid-40/APEX-X) | Multi-Agent AI | Active |
-| [Quantum Sentiment](https://github.com/Afrid-40/quantum-sentiment-analysis) | Quantum ML | Research |
-| [Resilient Web](https://github.com/Afrid-40/resilient-web) | Disaster Response PWA | Hackathon |
-| [Fake News Detection](https://github.com/Afrid-40/Fake-News-Detection) | NLP / ML | Deployable |
-| [Holo-Learn](https://github.com/Afrid-40/Holo-Learn) | AI / Education | MVP |
-| [TubeFilterAI](https://github.com/Afrid-40/TubeFilterAI) | NLP / Spam Detection | Completed |
-| [NeetCode Submissions](https://github.com/Afrid-40/neetcode-submissions) | DSA | Training |
+Machine Learning • Deep Learning • NLP • GenAI • Agents
 
+⚛️ Quantum
 
-## `01 // [APEX-X](https://github.com/Afrid-40/APEX-X)`
+Qiskit • QML • NISQ • Hybrid Quantum-Classical Research
 
-### 🧠 Multi-Agent AI Executive Assistant
+⚙️ Full Stack
+
+React • Node • FastAPI • Flask • MongoDB
+
+🚀 Systems
+
+Intelligent Applications • Automation • Real-World Solutions
+
+> PROJECT_DATABASE
+
+Project
+
+Domain
+
+Status
+
+APEX-X
+
+Multi-Agent AI
+
+Active
+
+Quantum Sentiment
+
+Quantum ML
+
+Research
+
+Resilient Web
+
+Disaster Response PWA
+
+Hackathon
+
+Fake News Detection
+
+NLP / ML
+
+Deployable
+
+Holo-Learn
+
+AI / Education
+
+MVP
+
+TubeFilterAI
+
+NLP / Spam Detection
+
+Completed
+
+NeetCode Submissions
+
+DSA
+
+Training
+
+01 // [APEX-X](https://github.com/Afrid-40/APEX-X)
+
+🧠 Multi-Agent AI Executive Assistant
 
 An experimental multi-agent AI system designed to coordinate specialized AI capabilities through an executive orchestration layer.
 
-```text
                          ┌─────────────────────┐
                          │      APEX-X         │
                          │    AI EXECUTIVE     │
@@ -119,21 +158,17 @@ An experimental multi-agent AI system designed to coordinate specialized AI capa
           └─────────────┴───────────┼───────────┴─────────────┘
                                     ▼
                               MEMORY SYSTEM
-```
 
-**Focus:** `AI Agents` `LLM Systems` `Automation` `Memory` `Intelligent Assistants`
+Focus: AI Agents LLM Systems Automation Memory Intelligent Assistants
 
-**STATUS ::** `ACTIVE DEVELOPMENT`
+STATUS :: ACTIVE DEVELOPMENT
 
----
+02 // [QUANTUM SENTIMENT](https://github.com/Afrid-40/quantum-sentiment-analysis)
 
-## `02 // [QUANTUM SENTIMENT](https://github.com/Afrid-40/quantum-sentiment-analysis)`
+⚛️ Hybrid Quantum-Classical Sentiment Analysis
 
-### ⚛️ Hybrid Quantum-Classical Sentiment Analysis
+A research project exploring a NISQ-feasible hybrid quantum-classical framework for sentiment analysis.
 
-A research project exploring a **NISQ-feasible hybrid quantum-classical framework for sentiment analysis**.
-
-```text
 DATASET
    │
    ▼
@@ -155,21 +190,17 @@ FEATURE ENGINEERING
            │
            ▼
     SENTIMENT OUTPUT
-```
 
-**Focus:** `Qiskit` `Quantum ML` `NISQ` `Hybrid AI` `Research`
+Focus: Qiskit Quantum ML NISQ Hybrid AI Research
 
-**STATUS ::** `RESEARCH`
+STATUS :: RESEARCH
 
----
+03 // [RESILIENT WEB](https://github.com/Afrid-40/resilient-web)
 
-## `03 // [RESILIENT WEB](https://github.com/Afrid-40/resilient-web)`
-
-### 🛡️ Disaster Response — Offline-First PWA
+🛡️ Disaster Response — Offline-First PWA
 
 A disaster-response application designed for environments where connectivity may be unreliable.
 
-```text
                   USER DEVICE
                        │
                        ▼
@@ -183,21 +214,17 @@ A disaster-response application designed for environments where connectivity may
           │
           ▼
       LOCAL DATA
-```
 
-**Focus:** `React` `PWA` `IndexedDB` `Leaflet` `Offline Systems`
+Focus: React PWA IndexedDB Leaflet Offline Systems
 
-**STATUS ::** `HACKATHON SYSTEM`
+STATUS :: HACKATHON SYSTEM
 
----
+04 // [FAKE NEWS DETECTION](https://github.com/Afrid-40/Fake-News-Detection)
 
-## `04 // [FAKE NEWS DETECTION](https://github.com/Afrid-40/Fake-News-Detection)`
-
-### 📰 Machine Learning Classification System
+📰 Machine Learning Classification System
 
 A complete NLP classification pipeline for identifying potentially fake news.
 
-```text
 RAW DATA
    │
    ▼
@@ -214,45 +241,37 @@ PREDICTION API
    │
    ▼
 FASTAPI
-```
 
-**Focus:** `Python` `Scikit-learn` `TF-IDF` `Logistic Regression` `FastAPI`
+Focus: Python Scikit-learn TF-IDF Logistic Regression FastAPI
 
-**STATUS ::** `DEPLOYABLE ML PROJECT`
+STATUS :: DEPLOYABLE ML PROJECT
 
----
+05 // [HOLO-LEARN](https://github.com/Afrid-40/Holo-Learn)
 
-## `05 // [HOLO-LEARN](https://github.com/Afrid-40/Holo-Learn)`
-
-### 🎓 AI Virtual Classroom
+🎓 AI Virtual Classroom
 
 An experimental learning environment combining AI, interactive education, immersive interfaces, and 3D concepts.
 
-**Focus:** `AI` `Education` `3D` `PWA` `Interactive Systems`
+Focus: AI Education 3D PWA Interactive Systems
 
-**STATUS ::** `MVP`
+STATUS :: MVP
 
----
+06 // [TUBEFILTER-AI](https://github.com/Afrid-40/TubeFilterAI)
 
-## `06 // [TUBEFILTER-AI](https://github.com/Afrid-40/TubeFilterAI)`
-
-### 📺 YouTube Spam Detection
+📺 YouTube Spam Detection
 
 A machine-learning classifier designed to detect spam comments.
 
-**Focus:** `Python` `NLP` `Classification` `Flask` `Machine Learning`
+Focus: Python NLP Classification Flask Machine Learning
 
-**STATUS ::** `COMPLETED`
+STATUS :: COMPLETED
 
----
+07 // [PYTHON DSA](https://github.com/Afrid-40/neetcode-submissions)
 
-## `07 // [PYTHON DSA](https://github.com/Afrid-40/neetcode-submissions)`
-
-### 📚 Data Structures & Algorithms Lab
+📚 Data Structures & Algorithms Lab
 
 A continuously evolving repository for algorithmic problem solving and placement preparation.
 
-```text
 ARRAYS
 STRINGS
 LINKED LISTS
@@ -264,51 +283,45 @@ SORTING
 RECURSION
 DYNAMIC PROGRAMMING
 PROBLEM SOLVING
-```
 
-**STATUS ::** `TRAINING`
+STATUS :: TRAINING
 
----
-
-# `> TECH_STACK`
+> TECH_STACK
 
 <div align="center">
 
-### PROGRAMMING
+PROGRAMMING
 
 <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css" />
 
 <br><br>
 
-### AI / MACHINE LEARNING
+AI / MACHINE LEARNING
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
 
 <br><br>
 
-### FULL STACK
+FULL STACK
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,flask,mongodb,firebase" />
 
 <br><br>
 
-### DEVELOPMENT TOOLS
+DEVELOPMENT TOOLS
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman" />
 
 <br><br>
 
-### QUANTUM
+QUANTUM
 
-`QISKIT` • `QUANTUM MACHINE LEARNING` • `VARIATIONAL CIRCUITS` • `NISQ`
+QISKIT • QUANTUM MACHINE LEARNING • VARIATIONAL CIRCUITS • NISQ
 
 </div>
 
----
+> CURRENT_OPERATIONS
 
-# `> CURRENT_OPERATIONS`
-
-```text
 ╔══════════════════════════════════════════════════════════╗
 ║                  CURRENT OPERATIONS                      ║
 ╠══════════════════════════════════════════════════════════╣
@@ -322,51 +335,61 @@ PROBLEM SOLVING
 ║                                                          ║
 ║  SYSTEM STATUS :: BUILDING                               ║
 ╚══════════════════════════════════════════════════════════╝
-```
 
----
+> CURRENT_FOCUS
 
-## `> CURRENT_FOCUS`
-
-```text
 [01] DSA / PLACEMENT PREPARATION
 [02] GENERATIVE AI / AGENT SYSTEMS
 [03] AI/ML PROJECT ENGINEERING
 [04] QUANTUM COMPUTING RESEARCH
 [05] FULL-STACK APPLICATIONS
-```
 
----
-
-# `> GITHUB_TELEMETRY`
+> GITHUB_TELEMETRY
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Afrid-40&show_icons=true&hide_border=true&theme=dark&bg_color=050505&title_color=FF3030&icon_color=FF0000&text_color=FFFFFF" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afrid-40&layout=compact&hide_border=true&theme=dark&bg_color=050505&title_color=FF3030&text_color=FFFFFF" height="180"/>
+<a href="https://github.com/Afrid-40?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-View%20Projects-FF0000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/Afrid-40?tab=followers">
+<img src="https://img.shields.io/github/followers/Afrid-40?style=for-the-badge&label=Followers&color=8B0000&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/Afrid-40">
+<img src="https://img.shields.io/github/stars/Afrid-40?style=for-the-badge&label=Profile%20Stars&color=990000&logo=github&logoColor=white" />
+</a>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Afrid-40&theme=dark&hide_border=true&background=050505&ring=FF0000&fire=FF3030&currStreakLabel=FF3030&sideLabels=FFFFFF&dates=888888" width="70%"/>
+<img src="https://komarev.com/ghpvc/?username=Afrid-40&style=for-the-badge&color=8B0000&label=PROFILE+VIEWS" />
+
+<br><br>
+
+╔══════════════════════════════════════════════════════════╗
+║                    GITHUB SIGNALS                         ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║  PROFILE       :: AFRID-40                               ║
+║  REPOSITORIES  :: ACTIVE                                 ║
+║  CONTRIBUTIONS :: TRACKED BY GITHUB                      ║
+║  PROJECTS      :: AI / ML / QUANTUM / FULL STACK         ║
+║                                                          ║
+║  STATUS        :: ONLINE                                 ║
+╚══════════════════════════════════════════════════════════╝
 
 </div>
 
----
-
-# `> CONTRIBUTION_MATRIX`
+> CONTRIBUTION_MATRIX
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Afrid-40&bg_color=050505&color=FF3030&line=990000&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+Contribution activity is available directly on the GitHub profile.
+
+
 
 </div>
 
----
+> MISSION_2026
 
-# `> MISSION_2026`
-
-```text
 ╔══════════════════════════════════════════════════════════╗
 ║                     MISSION 2026                         ║
 ╠══════════════════════════════════════════════════════════╣
@@ -383,15 +406,11 @@ PROBLEM SOLVING
 ║                                                          ║
 ║                 MISSION STATUS :: ACTIVE                  ║
 ╚══════════════════════════════════════════════════════════╝
-```
 
----
-
-# `> ENGINEERING_PHILOSOPHY`
+> ENGINEERING_PHILOSOPHY
 
 <div align="center">
 
-```text
                          THINK
                            │
                            ▼
@@ -410,19 +429,15 @@ PROBLEM SOLVING
                        ITERATE
                            │
                            └──────────────► REPEAT
-```
 
-### **"Don't just learn technology. Build with it."**
+"Don't just learn technology. Build with it."
 
 </div>
 
----
-
-# `> TERMINAL`
+> TERMINAL
 
 <div align="center">
 
-```text
 ┌─────────────────────────────────────────────────────┐
 │ AFRID-40@AI-CORE:~$                                 │
 ├─────────────────────────────────────────────────────┤
@@ -451,13 +466,10 @@ PROBLEM SOLVING
 │ > KEEP BUILDING.                                    │
 │                                                     │
 └─────────────────────────────────────────────────────┘
-```
 
 </div>
 
----
-
-# `> CONNECT_WITH_ME`
+> CONNECT_WITH_ME
 
 <div align="center">
 
@@ -473,7 +485,6 @@ PROBLEM SOLVING
 
 <br><br>
 
-```text
 ╔══════════════════════════════════════════════════════╗
 ║                                                      ║
 ║              SYSTEM CONNECTION READY                 ║
@@ -483,20 +494,17 @@ PROBLEM SOLVING
 ║            BUILD INTELLIGENCE. SHIP SYSTEMS.         ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
-```
 
 </div>
 
----
-
 <div align="center">
 
-> **AI/ML Engineer focused on building intelligent, practical, and deployable systems.**
+AI/ML Engineer focused on building intelligent, practical, and deployable systems.
 
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:8B0000,100:050505&height=140&section=footer&animation=twinkling" width="100%"/>
 
-### `AFRID-40 // AI CORE // END OF TRANSMISSION`
+AFRID-40 // AI CORE // END OF TRANSMISSION
 
 </div>
