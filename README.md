@@ -89,7 +89,18 @@ flowchart TD
 
 # `> PROJECT_DATABASE`
 
-## `01 // APEX-X`
+| Project | Domain | Status |
+|---|---|---|
+| [APEX-X](https://github.com/Afrid-40/APEX-X) | Multi-Agent AI | Active |
+| [Quantum Sentiment](https://github.com/Afrid-40/quantum-sentiment-analysis) | Quantum ML | Research |
+| [Resilient Web](https://github.com/Afrid-40/resilient-web) | Disaster Response PWA | Hackathon |
+| [Fake News Detection](https://github.com/Afrid-40/Fake-News-Detection) | NLP / ML | Deployable |
+| [Holo-Learn](https://github.com/Afrid-40/Holo-Learn) | AI / Education | MVP |
+| [TubeFilterAI](https://github.com/Afrid-40/TubeFilterAI) | NLP / Spam Detection | Completed |
+| [NeetCode Submissions](https://github.com/Afrid-40/neetcode-submissions) | DSA | Training |
+
+
+## `01 // [APEX-X](https://github.com/Afrid-40/APEX-X)`
 
 ### 🧠 Multi-Agent AI Executive Assistant
 
@@ -116,7 +127,7 @@ An experimental multi-agent AI system designed to coordinate specialized AI capa
 
 ---
 
-## `02 // QUANTUM SENTIMENT`
+## `02 // [QUANTUM SENTIMENT](https://github.com/Afrid-40/quantum-sentiment-analysis)`
 
 ### ⚛️ Hybrid Quantum-Classical Sentiment Analysis
 
@@ -152,7 +163,7 @@ FEATURE ENGINEERING
 
 ---
 
-## `03 // RESILIENT WEB`
+## `03 // [RESILIENT WEB](https://github.com/Afrid-40/resilient-web)`
 
 ### 🛡️ Disaster Response — Offline-First PWA
 
@@ -180,7 +191,7 @@ A disaster-response application designed for environments where connectivity may
 
 ---
 
-## `04 // FAKE NEWS DETECTION`
+## `04 // [FAKE NEWS DETECTION](https://github.com/Afrid-40/Fake-News-Detection)`
 
 ### 📰 Machine Learning Classification System
 
@@ -211,7 +222,7 @@ FASTAPI
 
 ---
 
-## `05 // HOLO-LEARN`
+## `05 // [HOLO-LEARN](https://github.com/Afrid-40/Holo-Learn)`
 
 ### 🎓 AI Virtual Classroom
 
@@ -223,7 +234,7 @@ An experimental learning environment combining AI, interactive education, immers
 
 ---
 
-## `06 // TUBEFILTER-AI`
+## `06 // [TUBEFILTER-AI](https://github.com/Afrid-40/TubeFilterAI)`
 
 ### 📺 YouTube Spam Detection
 
@@ -235,7 +246,7 @@ A machine-learning classifier designed to detect spam comments.
 
 ---
 
-## `07 // PYTHON DSA`
+## `07 // [PYTHON DSA](https://github.com/Afrid-40/neetcode-submissions)`
 
 ### 📚 Data Structures & Algorithms Lab
 
@@ -315,6 +326,18 @@ PROBLEM SOLVING
 
 ---
 
+## `> CURRENT_FOCUS`
+
+```text
+[01] DSA / PLACEMENT PREPARATION
+[02] GENERATIVE AI / AGENT SYSTEMS
+[03] AI/ML PROJECT ENGINEERING
+[04] QUANTUM COMPUTING RESEARCH
+[05] FULL-STACK APPLICATIONS
+```
+
+---
+
 # `> GITHUB_TELEMETRY`
 
 <div align="center">
@@ -331,7 +354,7 @@ PROBLEM SOLVING
 
 ---
 
-# `> ACTIVITY_MATRIX`
+# `> CONTRIBUTION_MATRIX`
 
 <div align="center">
 
@@ -444,7 +467,6 @@ PROBLEM SOLVING
 
 <br><br>
 
-<!-- Replace YOUR-LINKEDIN-USERNAME with your actual LinkedIn username -->
 <a href="https://www.linkedin.com/in/shahed-afrid-khan-mohammed-2a9b55322/">
 <img src="https://img.shields.io/badge/LINKEDIN-SHAHED%20AFRID-990000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -468,6 +490,10 @@ PROBLEM SOLVING
 ---
 
 <div align="center">
+
+> **AI/ML Engineer focused on building intelligent, practical, and deployable systems.**
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:8B0000,100:050505&height=140&section=footer&animation=twinkling" width="100%"/>
 
