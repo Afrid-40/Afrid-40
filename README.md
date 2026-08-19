@@ -10,22 +10,28 @@
 
 ---
 
-## `> SYSTEM STATUS`
+## `> WHO_AM_I`
 
-> **AFRID-40 // NEURAL COMMAND CENTER**
+I build intelligent software at the intersection of **Artificial Intelligence, Machine Learning, Generative AI, intelligent agents, Quantum Computing, and Full-Stack Engineering**.
+
+My engineering cycle:
+
+**CONCEPT → ARCHITECTURE → IMPLEMENTATION → TESTING → DEPLOYMENT → ITERATION**
+
+> **I build intelligent systems that turn ideas into working software.**
+
+---
+
+## `> SYSTEM STATUS`
 
 | SYSTEM | STATUS |
 |---|---|
-| AI / ML | 🟢 ONLINE |
-| Generative AI | 🟢 ACTIVE |
-| Multi-Agent Systems | 🟡 BUILDING |
-| Quantum Computing | 🔵 RESEARCH |
-| Full-Stack Engineering | 🟢 ONLINE |
-| DSA | 🟡 TRAINING |
-
-I build intelligent software at the intersection of **Artificial Intelligence, Machine Learning, Generative AI, Quantum Computing, and Full-Stack Engineering**.
-
-**Engineering Loop:** `PROBLEM → ARCHITECTURE → BUILD → TEST → DEPLOY → ITERATE`
+| 🧠 AI / ML | 🟢 ONLINE |
+| ✨ Generative AI | 🟢 ACTIVE |
+| 🤖 Multi-Agent Systems | 🟡 BUILDING |
+| ⚛️ Quantum Computing | 🔵 RESEARCH |
+| 🌐 Full-Stack Engineering | 🟢 ONLINE |
+| 🧩 DSA | 🟡 TRAINING |
 
 ---
 
@@ -33,7 +39,7 @@ I build intelligent software at the intersection of **Artificial Intelligence, M
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D GitHub contribution graph">
+<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="AFRID-40 3D GitHub contribution graph">
 
 </div>
 
@@ -43,7 +49,7 @@ I build intelligent software at the intersection of **Artificial Intelligence, M
 
 <div align="center">
 
-<img src="./dist/github-snake-dark.svg" width="100%" alt="GitHub contribution snake animation">
+<img src="./dist/github-snake-dark.svg" width="100%" alt="AFRID-40 GitHub contribution snake">
 
 </div>
 
@@ -53,154 +59,188 @@ I build intelligent software at the intersection of **Artificial Intelligence, M
 
 | Domain | Focus |
 |---|---|
-| 🧠 **AI / ML** | Machine Learning · Deep Learning · NLP · Classification |
-| ✨ **Generative AI** | LLM Applications · AI Assistants · Agentic Systems |
-| ⚛️ **Quantum** | Qiskit · Quantum ML · NISQ · Hybrid Quantum-Classical Research |
-| 🌐 **Full Stack** | React · Node.js · FastAPI · Flask · MongoDB · Firebase |
-| 🚀 **Systems** | Automation · Intelligent Applications · Real-World Solutions |
-| 🧩 **DSA** | Algorithms · Data Structures · Problem Solving |
+| 🧠 **AI / ML** | Machine Learning • Deep Learning • NLP • Generative AI |
+| 🤖 **AI Agents** | Multi-Agent Systems • LLM Applications • Automation |
+| ⚛️ **Quantum** | Qiskit • Quantum ML • NISQ • Hybrid Quantum-Classical Research |
+| 🌐 **Full Stack** | React • Node.js • FastAPI • Flask • MongoDB • Firebase |
+| 🚀 **Systems** | Intelligent Applications • Automation • Real-World Solutions |
+| 🧩 **DSA** | Algorithms • Data Structures • Problem Solving |
 
 ---
 
-## `> PROJECT COMMAND CENTER`
+# `> PROJECT DATABASE`
 
-### `01 // APEX-X`
+## `01 // APEX-X`
 
-**Multi-Agent AI Executive Assistant**
+### 🧠 Multi-Agent AI Executive Assistant
 
-An experimental multi-agent AI system designed around specialized agents coordinated through an executive orchestration layer.
+An experimental multi-agent AI system designed to coordinate specialized AI capabilities through an executive orchestration layer.
 
-`AI AGENTS` · `LLM SYSTEMS` · `AUTOMATION` · `MEMORY`
+**Focus:** `AI Agents` `LLM Systems` `Automation` `Memory` `Intelligent Assistants`
 
 **STATUS :: ACTIVE DEVELOPMENT**
 
 ---
 
-### `02 // QUANTUM SENTIMENT`
+## `02 // QUANTUM SENTIMENT`
 
-**Hybrid Quantum-Classical Sentiment Analysis**
+### ⚛️ Hybrid Quantum-Classical Sentiment Analysis
 
-A research project exploring a NISQ-feasible hybrid quantum-classical framework for sentiment analysis.
+A research project exploring a **NISQ-feasible hybrid quantum-classical framework for sentiment analysis**.
 
-`QISKIT` · `QUANTUM ML` · `NISQ` · `RESEARCH`
+**Focus:** `Qiskit` `Quantum ML` `NISQ` `Hybrid AI` `Research`
 
 **STATUS :: RESEARCH**
 
 ---
 
-### `03 // RESILIENT WEB`
+## `03 // RESILIENT WEB`
 
-**Offline-First Disaster Response PWA**
+### 🛡️ Disaster Response — Offline-First PWA
 
-A disaster-response application designed for environments where network connectivity may be unreliable.
+A disaster-response application designed for environments where connectivity may be unreliable.
 
-`REACT` · `PWA` · `INDEXEDDB` · `LEAFLET`
+**Focus:** `React` `PWA` `IndexedDB` `Leaflet` `Offline Systems`
 
 **STATUS :: HACKATHON SYSTEM**
 
 ---
 
-### `04 // FAKE NEWS DETECTION`
+## `04 // FAKE NEWS DETECTION`
 
-**Machine Learning Classification System**
+### 📰 Machine Learning Classification System
 
-An NLP classification pipeline for identifying potentially fake news using traditional machine learning techniques.
+A complete NLP classification pipeline for identifying potentially fake news.
 
-`PYTHON` · `SCIKIT-LEARN` · `TF-IDF` · `LOGISTIC REGRESSION` · `FASTAPI`
+**Focus:** `Python` `Scikit-learn` `TF-IDF` `Logistic Regression` `FastAPI`
 
 **STATUS :: DEPLOYABLE ML PROJECT**
 
 ---
 
-### `05 // HOLO-LEARN`
+## `05 // HOLO-LEARN`
 
-**AI Virtual Classroom**
+### 🎓 AI Virtual Classroom
 
 An experimental learning environment combining AI, interactive education, immersive interfaces, and 3D concepts.
 
-`AI` · `EDUCATION` · `3D` · `PWA`
+**Focus:** `AI` `Education` `3D` `PWA` `Interactive Systems`
 
 **STATUS :: MVP**
 
 ---
 
-### `06 // TUBEFILTER-AI`
+## `06 // TUBEFILTER-AI`
 
-**YouTube Spam Detection**
+### 📺 YouTube Spam Detection
 
 A machine-learning classifier designed to detect spam comments.
 
-`PYTHON` · `NLP` · `CLASSIFICATION` · `FLASK`
+**Focus:** `Python` `NLP` `Classification` `Flask` `Machine Learning`
 
 **STATUS :: COMPLETED**
 
 ---
 
-### `07 // DSA LAB`
+## `07 // PYTHON DSA`
 
-**Data Structures & Algorithms**
+### 📚 Data Structures & Algorithms Lab
 
-Continuous algorithmic practice focused on problem solving and software engineering preparation.
+A continuously evolving repository for algorithmic problem solving and software engineering preparation.
 
-`PYTHON` · `ARRAYS` · `STRINGS` · `TREES` · `SEARCHING` · `SORTING` · `DYNAMIC PROGRAMMING`
+**Focus:** `Arrays` `Strings` `Linked Lists` `Stacks` `Queues` `Trees` `Searching` `Sorting` `Recursion` `Dynamic Programming`
 
 **STATUS :: TRAINING**
 
 ---
 
-## `> TECH CORE`
+# `> TECH STACK`
 
 ### Programming
 
-`Python` · `Java` · `C++` · `JavaScript` · `TypeScript` · `HTML` · `CSS`
+`Python` `Java` `C++` `JavaScript` `TypeScript` `HTML` `CSS`
 
-### AI / Machine Learning
+### Artificial Intelligence
 
-`PyTorch` · `TensorFlow` · `Scikit-learn` · `Pandas` · `NumPy`
+`PyTorch` `TensorFlow` `Scikit-learn` `Pandas` `NumPy`
 
 ### Generative AI
 
-`LLMs` · `AI Agents` · `Prompt Engineering` · `RAG` · `Automation`
+`LLMs` `AI Agents` `Prompt Engineering` `RAG` `Automation`
 
 ### Full Stack
 
-`React` · `Node.js` · `Express` · `FastAPI` · `Flask` · `MongoDB` · `Firebase`
+`React` `Node.js` `Express` `FastAPI` `Flask` `MongoDB` `Firebase`
 
 ### Development
 
-`Git` · `GitHub` · `VS Code` · `Linux` · `Docker` · `Postman`
+`Git` `GitHub` `VS Code` `Linux` `Docker` `Postman`
 
 ### Quantum Computing
 
-`Qiskit` · `Quantum Machine Learning` · `Variational Circuits` · `NISQ`
+`Qiskit` `Quantum Machine Learning` `Variational Circuits` `NISQ`
 
 ---
 
-## `> ENGINEERING PHILOSOPHY`
+# `> CURRENT OPERATIONS`
 
-**THINK → DESIGN → BUILD → TEST → DEPLOY → ITERATE**
+| Operation | Status |
+|---|---|
+| AI / ML | `████████████████████` |
+| Full Stack | `██████████████████░░` |
+| Project Engineering | `█████████████████░░░` |
+| DSA | `████████████████░░░░` |
+| Quantum Computing | `███████████████░░░░░` |
+| Generative AI | `█████████████████░░░` |
+
+**SYSTEM STATUS :: BUILDING**
+
+---
+
+# `> ENGINEERING PHILOSOPHY`
+
+**THINK → DESIGN → BUILD → EXPERIMENT → DEPLOY → ITERATE**
 
 > **Don't just learn technology. Build with it.**
 
 ---
 
-## `> MISSION 2026`
+# `> MISSION 2026`
 
 | Mission | Progress |
 |---|---|
-| Build real-world AI systems | ████████████████████ |
-| Advance Generative AI | ███████████████████░ |
-| Master DSA & problem solving | ██████████████████░░ |
-| Explore Quantum Computing | █████████████████░░░ |
-| Build Full-Stack Systems | █████████████████░░░ |
-| Contribute to Open Source | ████████████████░░░░ |
-| Strengthen Software Engineering | ███████████████░░░░░ |
+| Build real-world AI systems | `████████████████████` |
+| Explore Quantum Computing | `██████████████████░░` |
+| Build Full-Stack Applications | `██████████████████░░` |
+| Master Data Structures & Algorithms | `████████████████░░░░` |
+| Advance Generative AI | `████████████████░░░░` |
+| Build Production-Grade Agent Systems | `███████████████░░░░░` |
+| Contribute to Open Source | `██████████████░░░░░░` |
+| Strengthen Engineering Portfolio | `████████████████░░░░` |
 
 **MISSION STATUS :: ACTIVE**
 
 ---
 
-## `> CONNECT`
+# `> TERMINAL`
+
+<div align="center">
+
+**AFRID-40@AI-CORE**
+
+`AI CORE : ONLINE`  
+`ML ENGINE : ONLINE`  
+`QUANTUM CORE : ACTIVE`  
+`WEB ENGINE : ONLINE`  
+`DSA ENGINE : TRAINING`
+
+**BUILD INTELLIGENCE • SOLVE REAL PROBLEMS • SHIP SYSTEMS**
+
+</div>
+
+---
+
+# `> CONNECT WITH ME`
 
 <div align="center">
 
