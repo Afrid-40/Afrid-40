@@ -39,7 +39,7 @@ My engineering cycle:
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="AFRID-40 3D GitHub contribution graph">
+<img src="./profile-3d-contrib/profile-afrid-neural.svg" width="100%" alt="AFRID-40 Neural 3D Contribution Matrix">
 
 </div>
 
