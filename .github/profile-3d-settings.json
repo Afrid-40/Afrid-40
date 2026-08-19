@@ -1,0 +1,17 @@
+{
+  "type": "normal",
+  "fileName": "profile-afrid-neural.svg",
+  "backgroundColor": "#050505",
+  "foregroundColor": "#F5F5F5",
+  "strongColor": "#FF3030",
+  "weakColor": "#777777",
+  "radarColor": "#FF3030",
+  "growingAnimation": true,
+  "contribColors": [
+    "#161616",
+    "#5C0A0A",
+    "#990F0F",
+    "#D41414",
+    "#FF3030"
+  ]
+}
