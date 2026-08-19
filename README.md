@@ -186,7 +186,7 @@ Continuous algorithmic practice focused on problem solving and software engineer
 
 ## `> MISSION 2026`
 
-| Mission | Status |
+| Mission | Progress |
 |---|---|
 | Build real-world AI systems | ████████████████████ |
 | Advance Generative AI | ███████████████████░ |
@@ -214,11 +214,13 @@ Continuous algorithmic practice focused on problem solving and software engineer
 <img src="https://img.shields.io/badge/LINKEDIN-SHAHED%20AFRID-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<p>
+<br><br>
 
-<strong>AI • ML • GENERATIVE AI • AGENTS • QUANTUM • SOFTWARE</strong>
+**AI • ML • GENERATIVE AI • AGENTS • QUANTUM • SOFTWARE**
 
-</p>
+<br>
+
+**BUILD INTELLIGENCE. SHIP SYSTEMS. KEEP ITERATING.**
 
 </div>
 
