@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/afrid-neural-command-center.png" width="100%" alt="AFRID-40 Neural Command Center">
+<img src="./assets/afrid-neural-command-center.png.png" width="100%" alt="AFRID-40 Neural Command Center">
 </div>
 
 # ⚡ AFRID-40
