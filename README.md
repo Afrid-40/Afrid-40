@@ -1,84 +1,68 @@
 <div align="center">
 
-AFRID-40
+# ⚡ AFRID-40
 
-AI/ML Engineer • Generative AI • Intelligent Systems • Quantum Computing
+### AI/ML ENGINEER • GENERATIVE AI • INTELLIGENT SYSTEMS • QUANTUM COMPUTING
 
-<p>
-  <a href="https://github.com/Afrid-40">
-    <img src="https://img.shields.io/badge/GitHub-Afrid--40-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/shahed-afrid-khan-mohammed-2a9b55322/">
-    <img src="https://img.shields.io/badge/LinkedIn-Shahed%20Afrid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Afrid-40&style=for-the-badge&color=8B0000&label=PROFILE+VIEWS" alt="Profile views">
-</p>
+**BUILD INTELLIGENCE · SOLVE REAL PROBLEMS · SHIP SYSTEMS**
 
 </div>
 
-> ABOUT_ME
+---
 
-I'm an Artificial Intelligence and Machine Learning engineer focused on turning ideas into practical software.
+## `> SYSTEM STATUS`
 
-My interests span machine learning, NLP, Generative AI, intelligent agents, quantum computing, and full-stack application development. I enjoy taking projects from problem definition and architecture through implementation, testing, deployment, and iteration.
+```text
+┌──────────────────────────────────────────────────────────────┐
+│              AFRID-40 // NEURAL COMMAND CENTER               │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  AI / ML              :: ONLINE                              │
+│  GENERATIVE AI        :: ACTIVE                              │
+│  MULTI-AGENT SYSTEMS  :: BUILDING                            │
+│  QUANTUM COMPUTING    :: RESEARCH                            │
+│  FULL-STACK           :: ONLINE                              │
+│  DSA                  :: TRAINING                            │
+│                                                              │
+│  SYSTEM STATUS        :: BUILDING THE FUTURE                 │
+└──────────────────────────────────────────────────────────────┘
+I build intelligent software at the intersection of Artificial Intelligence, Machine Learning, Generative AI, Quantum Computing, and Full-Stack Engineering.
 
-THINK → DESIGN → BUILD → TEST → DEPLOY → ITERATE
+My engineering loop:
 
-Current Focus
-
-Building practical AI/ML applications
-
-Learning and implementing Generative AI and agentic systems
-
-Strengthening Data Structures & Algorithms
-
-Exploring quantum machine learning and NISQ concepts
-
-Building full-stack applications around real-world problems
-
-Improving software engineering and deployment practices
-
-> CORE_DOMAINS
-
-Area
-
-Focus
-
-🧠 AI / ML
-
-Machine Learning, NLP, Deep Learning, Classification
-
-✨ Generative AI
-
-LLM applications, AI assistants, agentic workflows
-
-⚛️ Quantum
-
-Qiskit, Quantum ML, NISQ, hybrid quantum-classical concepts
-
-🌐 Full Stack
-
-React, Node.js, FastAPI, Flask, MongoDB, Firebase
-
-📊 Data
-
-Python, Pandas, NumPy, Scikit-learn
-
-🧩 DSA
-
-Algorithms, data structures, problem solving, placement preparation
-
-> FEATURED_PROJECTS
-
+PROBLEM
+   ↓
+ARCHITECTURE
+   ↓
+BUILD
+   ↓
+TEST
+   ↓
+DEPLOY
+   ↓
+ITERATE
+> 3D CONTRIBUTION MATRIX
+<div align="center"> <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D GitHub contribution graph"> </div>
+> CONTRIBUTION SIGNAL
+<div align="center"> <img src="./dist/github-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"> </div>
+> CORE DOMAINS
+Domain	Focus
+🧠 AI / ML	Machine Learning · Deep Learning · NLP · Classification
+✨ Generative AI	LLM Applications · AI Assistants · Agentic Systems
+⚛️ Quantum	Qiskit · Quantum ML · NISQ · Hybrid Quantum-Classical Research
+🌐 Full Stack	React · Node.js · FastAPI · Flask · MongoDB · Firebase
+🚀 Systems	Automation · Intelligent Applications · Real-World Solutions
+🧩 DSA	Algorithms · Data Structures · Problem Solving
+> PROJECT COMMAND CENTER
 01 // APEX-X
 
 Multi-Agent AI Executive Assistant
 
-An experimental AI system designed around specialized agents coordinated through an executive orchestration layer.
+An experimental multi-agent AI system designed around specialized agents coordinated through an executive orchestration layer.
 
-Focus: AI Agents LLM Systems Automation Memory Intelligent Assistants
+AI AGENTS LLM SYSTEMS AUTOMATION MEMORY INTELLIGENT ASSISTANTS
 
-Status: ACTIVE DEVELOPMENT
+STATUS :: ACTIVE DEVELOPMENT
 
 02 // QUANTUM SENTIMENT
 
@@ -86,19 +70,19 @@ Hybrid Quantum-Classical Sentiment Analysis
 
 A research project exploring a NISQ-feasible hybrid quantum-classical framework for sentiment analysis.
 
-Focus: Qiskit Quantum ML NISQ Hybrid AI Research
+QISKIT QUANTUM ML NISQ HYBRID AI RESEARCH
 
-Status: RESEARCH
+STATUS :: RESEARCH
 
 03 // RESILIENT WEB
 
-Disaster Response — Offline-First PWA
+Offline-First Disaster Response PWA
 
-A disaster-response application designed for situations where network connectivity may be unreliable.
+A disaster-response application designed for environments where network connectivity may be unreliable.
 
-Focus: React PWA IndexedDB Leaflet Offline Systems
+REACT PWA INDEXEDDB LEAFLET OFFLINE SYSTEMS
 
-Status: HACKATHON SYSTEM
+STATUS :: HACKATHON SYSTEM
 
 04 // FAKE NEWS DETECTION
 
@@ -106,9 +90,9 @@ Machine Learning Classification System
 
 An NLP classification pipeline for identifying potentially fake news using traditional machine learning techniques.
 
-Focus: Python Scikit-learn TF-IDF Logistic Regression FastAPI
+PYTHON SCIKIT-LEARN TF-IDF LOGISTIC REGRESSION FASTAPI
 
-Status: DEPLOYABLE ML PROJECT
+STATUS :: DEPLOYABLE ML PROJECT
 
 05 // HOLO-LEARN
 
@@ -116,9 +100,9 @@ AI Virtual Classroom
 
 An experimental learning environment combining AI, interactive education, immersive interfaces, and 3D concepts.
 
-Focus: AI Education 3D PWA Interactive Systems
+AI EDUCATION 3D PWA INTERACTIVE SYSTEMS
 
-Status: MVP
+STATUS :: MVP
 
 06 // TUBEFILTER-AI
 
@@ -126,130 +110,94 @@ YouTube Spam Detection
 
 A machine-learning classifier designed to detect spam comments.
 
-Focus: Python NLP Classification Flask Machine Learning
+PYTHON NLP CLASSIFICATION FLASK MACHINE LEARNING
 
-Status: COMPLETED
+STATUS :: COMPLETED
 
-07 // NEETCODE SUBMISSIONS
+07 // DSA LAB
 
 Data Structures & Algorithms
 
-A continuously evolving repository for algorithmic problem solving and placement preparation.
+Continuous algorithmic practice focused on problem solving and software engineering preparation.
 
-Focus: Python Arrays Strings Stacks Trees Searching Sorting Recursion Dynamic Programming
+PYTHON ARRAYS STRINGS STACKS QUEUES TREES SEARCHING SORTING RECURSION DYNAMIC PROGRAMMING
 
-Status: TRAINING
+STATUS :: TRAINING
 
-> TECH_STACK
+> TECH CORE
+Programming
 
-Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css" alt="Programming languages">
-</p>
+Python · Java · C++ · JavaScript · TypeScript · HTML · CSS
 
 AI / Machine Learning
 
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="AI and machine learning">
-</p>
+PyTorch · TensorFlow · Scikit-learn · Pandas · NumPy
 
-Web / Backend
+Generative AI
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,flask,mongodb,firebase" alt="Web and backend technologies">
-</p>
+LLMs · AI Agents · Prompt Engineering · RAG Concepts · Automation
 
-Tools
+Full Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman" alt="Development tools">
-</p>
+React · Node.js · Express · FastAPI · Flask · MongoDB · Firebase
 
-Quantum
+Development
+
+Git · GitHub · VS Code · Linux · Docker · Postman
+
+Quantum Computing
 
 Qiskit · Quantum Machine Learning · Variational Circuits · NISQ
 
-> ENGINEERING_APPROACH
-
-┌─────────────────────────────────────────────┐
-│              ENGINEERING LOOP               │
-├─────────────────────────────────────────────┤
-│                                             │
-│  01  THINK                                  │
-│       ↓                                     │
-│  02  DEFINE THE PROBLEM                     │
-│       ↓                                     │
-│  03  DESIGN THE SYSTEM                      │
-│       ↓                                     │
-│  04  BUILD                                  │
-│       ↓                                     │
-│  05  TEST                                   │
-│       ↓                                     │
-│  06  DEPLOY                                 │
-│       ↓                                     │
-│  07  MEASURE & IMPROVE                      │
-│       ↓                                     │
-│      REPEAT                                 │
-│                                             │
-└─────────────────────────────────────────────┘
+> ENGINEERING PHILOSOPHY
+                     THINK
+                       │
+                       ▼
+                     DESIGN
+                       │
+                       ▼
+                     BUILD
+                       │
+                       ▼
+                      TEST
+                       │
+                       ▼
+                    DEPLOY
+                       │
+                       ▼
+                   ITERATE
+                       │
+                       └──────────────► REPEAT
 
 Don't just learn technology. Build with it.
 
-> DSA_PROGRESS
+> MISSION 2026
+[01] ████████████████████  BUILD REAL-WORLD AI SYSTEMS
+[02] ███████████████████░  ADVANCE GENERATIVE AI
+[03] ██████████████████░░  MASTER DSA & PROBLEM SOLVING
+[04] █████████████████░░░  EXPLORE QUANTUM COMPUTING
+[05] █████████████████░░░  BUILD FULL-STACK SYSTEMS
+[06] ████████████████░░░░  CONTRIBUTE TO OPEN SOURCE
+[07] ███████████████░░░░░  STRENGTHEN SOFTWARE ENGINEERING
 
-My algorithmic practice focuses on building strong problem-solving fundamentals for software engineering and placement opportunities.
-
-ARRAYS              ████████████████████
-STRINGS             ████████████████████
-STACKS / QUEUES     ██████████████████░░
-LINKED LISTS        █████████████████░░░
-TREES               ████████████████░░░░
-SEARCHING / SORTING █████████████████░░░
-RECURSION           ███████████████░░░░░
-DYNAMIC PROGRAMMING █████████████░░░░░░░
-
-> MISSION_2026
-
-Build real-world AI systems
-
-Advance Generative AI and intelligent agents
-
-Strengthen Data Structures & Algorithms
-
-Explore quantum computing research
-
-Build and deploy full-stack applications
-
-Contribute to open-source projects
-
-Develop production-oriented engineering skills
-
-Build a strong software engineering portfolio
+MISSION STATUS :: ACTIVE
 
 > CONNECT
+<div align="center"> <a href="https://github.com/Afrid-40"> <img src="https://img.shields.io/badge/GITHUB-AFRID--40-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a>
 
-<div align="center">
+ 
 
-<a href="https://github.com/Afrid-40">
-  <img src="https://img.shields.io/badge/GitHub-AFRID--40-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="https://www.linkedin.com/in/shahed-afrid-khan-mohammed-2a9b55322/">
-  <img src="https://img.shields.io/badge/LinkedIn-SHAHED%20AFRID-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+<a href="https://www.linkedin.com/in/shahed-afrid-khan-mohammed-2a9b55322/"> <img src="https://img.shields.io/badge/LINKEDIN-SHAHED%20AFRID-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
 
 <br><br>
 
-AI  •  ML  •  GENERATIVE AI  •  QUANTUM  •  SOFTWARE
+AI • ML • GENERATIVE AI • AGENTS • QUANTUM • SOFTWARE
+
 
 BUILD INTELLIGENCE.
-SOLVE REAL PROBLEMS.
 SHIP SYSTEMS.
-
+KEEP ITERATING.
 </div>
-
 <div align="center">
-
-AFRID-40 // AI ENGINEERING // KEEP BUILDING
-
-</div>
+AFRID-40 // NEURAL COMMAND CENTER // ONLINE
+</div> ```
